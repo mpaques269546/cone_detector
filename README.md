@@ -2,7 +2,7 @@
 Detection of tree and fir cones.
 
 
-<img src="https://github.com/mpaques269546/cone_detector/blob/main/misc/91.jpg" width="500" height="800">
+<img src="https://github.com/mpaques269546/cone_detector/blob/main/misc/91.jpg" width="500" height="200">
 
 ## Requirements
 python version: 3.10.8
